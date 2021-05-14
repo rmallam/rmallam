@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rakesh Kumar Mallam
+-  Email me on mallamrakesh@gmail.com
 
 
 <!---
